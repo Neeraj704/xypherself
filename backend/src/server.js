@@ -8,7 +8,7 @@ const app = express();
 
 // --- START: MODIFIED CODE ---
 const allowedOrigins = [
-  'http://localhost:5173', // Your Vite frontend
+  'https://xypherself.vercel.app', // Your Vite frontend
   process.env.CLIENT_URL   // Keep the production URL from .env
 ].filter(Boolean); // Filter out undefined/null values
 
