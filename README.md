@@ -9,9 +9,8 @@ A sleek, interactive **expense tracker**, **AI‑powered forecasting engine**, *
 
 ## 📌 LIVE DEMO + VIDEO
 
-> 🚀 Live Site: [Live link](https://call2roastlive.vercel.app)  
-> 🚀 Demo Video: [YouTube Demo](https://www.youtube.com/watch?v=S6Nnzn5M5dc)  
-> 🚀 Hackathon Slides: [Google Slides](https://drive.google.com/file/d/1Z9uOV4kCq4NQ5aUEO2UFnHHawQHtTYAE/view?usp=sharing)
+> 🚀 Live Site: [Live link](https://xypherself.vercel.app)  
+> 🚀 Hackathon Slides: [Google Slides](https://drive.google.com/file/d/1zLezCC6uf3Wx7bcEaMzmv_n4QDz4FJzb/view?usp=sharing)
 
 ### ⚠️ **IMPORTANT NOTE: Run only in Google Chrome!**
 Voice navigation and text-to-speech features **only work in Chrome** due to browser support for the Web Speech API.
