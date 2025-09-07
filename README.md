@@ -38,42 +38,6 @@ Because our AWS server isn’t SSL-certified, Chrome blocks requests to it.
 
 ---
 
-## 🧠 HACKATHON CHALLENGE FEATURES (2024)
-
-We've added several innovative features focused on **accessibility, UX creativity, and interactivity**:
-
-### 🗣️ Voice Navigation + Accessibility (Hard – 6 pts)
-- Control the app by **talking to it** — e.g., “Add a transaction of ₹500” or “Go to Dashboard”.
-- Powered by `react-speech-recognition` + command parsing logic.
-- Adds inclusive UX for users with disabilities.
-
-### 🔈 Text-to-Speech Content (Hard – 6 pts)
-- The Chatbot now **speaks out** replies using `SpeechSynthesisUtterance` (Web Speech API).
-- Makes financial guidance more accessible and personal.
-
-### 🎮 Creative 404 Fallback (Easy – 2 pts)
-- If the chatbot or forecast fails, users get to **play Pong inside the chatbot window**!
-- A humorous fallback for failed API routes.
-
-### 🌚 Dark Mode Support (Easy – 2 pts)
-- Supports toggling between Light, Dark, and **Colorblind mode** via dropdown.
-- Fully implemented with Tailwind’s `darkMode: "class"`.
-
-### 🔄 Custom Loading States (Easy – 2 pts)
-- Fun animations while Chatbot/ML/Goal APIs load.
-- Includes typing dots, spinning icons, and subtle motion elements.
-
-### 🌍 Multilingual Support (Medium – 4 pts)
-- Google Translate widget enables live translation of the entire landing page.
-- Improves accessibility for global users and hackathon judges.
-
-### 📜 Story Mode Walkthrough (Medium – 4 pts)
-- A guided **narrator-style onboarding tutorial** walks the user through key features.
-- Dynamic position-aware tooltips highlight each dashboard element.
-- Powered by Framer Motion + Zustand state tracking.
-
----
-
 ## 🌟 Core Features
 
 - ✅ **Secure Onboarding**  
